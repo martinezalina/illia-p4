@@ -1,0 +1,10 @@
+Extensiones a ignorar por parte de GitHub
+
+*.bak
+.ipynb_checkpoints
+.DS_Store
+*.DS_Store
+
+# ms IDE stuff
+*.code-workspace
+.vscode

@@ -10,11 +10,11 @@ El objetivo de este proyecto es predecir el tránsito vehicular de la AU Illia (
 
 ## Notebooks
 
-PRINCIPAL
+**Principal**
 
 El proyecto cuenta con 3 notebooks. El principal es `CABA_Series_Temporales_con_RRNN_efectivo.ipynb`. Corriendo sólo el notebook principal se puede evaluar los modelos entrenados.
 
-ANEXOS
+**Anexos**
 
 El notebook anexo `flujo-vehicular-2020.ipynb` se creó para realizar las primeras transformaciones del dataset del flujo vehicular 2020 y hacer las primeras exploraciones del contenido. El data set resultante se utiliza en el noteboot principal y ya está disponible en ./datasets
 

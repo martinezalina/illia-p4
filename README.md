@@ -10,9 +10,11 @@ El objetivo de este proyecto es predecir el tránsito vehicular de la AU Illia (
 
 ## Notebooks
 
+El proyecto cuenta con 3 notebooks. A continuación detallamos qué contiene cada uno.
+
 **Principal**
 
-El proyecto cuenta con 3 notebooks. El principal es `CABA_Series_Temporales_con_RRNN_efectivo.ipynb`. Corriendo sólo el notebook principal se puede evaluar los modelos entrenados.
+El principal es `CABA_Series_Temporales_con_RRNN_efectivo.ipynb`. Corriendo sólo el notebook principal se puede evaluar los modelos entrenados.
 
 **Anexos**
 

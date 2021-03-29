@@ -8,11 +8,11 @@
 
 El objetivo de este proyecto es predecir el tránsito vehicular de la AU Illia (CABA), a partir de los datos históricos de la misma.
 
-## Datos
+## Datasets
 
-https://data.buenosaires.gob.ar/dataset/flujo-vehicular-por-unidades-peaje-ausa
+[Flujo Vehicular por unidades de peaje AUSA](https://data.buenosaires.gob.ar/dataset/flujo-vehicular-por-unidades-peaje-ausa)
 
-https://datos.gob.ar/dataset/energia-precios-surtidor---resolucion-3142016/archivo/energia_80ac25de-a44a-4445-9215-090cf55cfda5
+[Precios de combustible - Resolución 3142016](https://datos.gob.ar/dataset/energia-precios-surtidor---resolucion-3142016/archivo/energia_80ac25de-a44a-4445-9215-090cf55cfda5)
 
 ## EDA
 
